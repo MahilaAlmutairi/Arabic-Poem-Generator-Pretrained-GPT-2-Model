@@ -1,4 +1,4 @@
-# Arabic-PoemGenerator_Pre-trained-GPT-2-Model
+# Arabic Poem Generator (Pre-trained GPT-2 Model)
 A model generates Arabic praise poems.
 
 ### Used Libraries and Technologies:
